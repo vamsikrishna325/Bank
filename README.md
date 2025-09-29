@@ -30,12 +30,12 @@ The program is console-based and demonstrates **classes, encapsulation, and meth
 3. Compile the program:
 
    ```sh
-   javac B.java
+   javac Bank.java
    ```
 4. Run the program:
 
    ```sh
-   java B
+   java Bank
    ```
 
 ---
@@ -43,7 +43,7 @@ The program is console-based and demonstrates **classes, encapsulation, and meth
 ## 📂 Project Structure
 
 ```
-├── B.java          # Main class (Bank Simulation)
+├── Bank.java          # Main class (Bank Simulation)
 ├── README.md       # Project documentation
 ```
 
